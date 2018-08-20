@@ -36,7 +36,7 @@ Here is a Direct Link to the Okta LDAP Agent:
 
 Node.js is required, Node is basically be using as a Shell Script.
 
-Downlaod Node.js https://nodejs.org/en/
+Download Node.js https://nodejs.org/en/
 
 You will need to download the binary for the Operating System you are running on
 
